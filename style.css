@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 100px;
+    color: blue;
+
+    /* position: fixed;
+    top: 10px;
+    left: 20px; */
+    
+
+    /* position: relative;
+    top: 10px;
+    left: 20px; */
+
+
+    /* position: absolute;
+    top: 10px;
+    left: 20px; */
+   
+    /* position: sticky;
+    top: 10px;
+    left: 20px; */
+
+}
+nav{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: rgb(11, 134, 183);
+    position: fixed;
+    font-size: 50px;
+    justify-content: space-around;
+}
+img{
+    
+    
+}
